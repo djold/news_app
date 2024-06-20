@@ -1,0 +1,4 @@
+venv
+.vscode
+**/__pycache__
+dj_first/db.sqlite3

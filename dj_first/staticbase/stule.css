@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #001488;
+}
+nav {
+padding: 1.5em;
+background-color: #002651;
+display: flex;
+justify-content: space-between
+}
+nav a {
+color: #fff;
+text-decoration: name;
+font-weight: bold
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
